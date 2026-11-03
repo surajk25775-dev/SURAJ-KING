@@ -84,7 +84,7 @@ module.exports = {
       return send.reply(`Usage:
 ━━━━━━━━━━━━━━━━
 fyt on @mention - Start tagging
-fyt off @mention - Stop tagging
+fyt of @mention - Stop tagging
 ━━━━━━━━━━━━━━━━
 
 Tag kisi ko aur spam shuru karo! 😈`);
@@ -139,7 +139,7 @@ Use "fyt off @${targetName}" to stop.`);
 ╠═══════════════════════════╣
 
 Target: ${targetName}
-Speed: 85 seconds
+Speed: 90 seconds
 Status: Running 😈
 
 ╚═══════════════════════════╝
